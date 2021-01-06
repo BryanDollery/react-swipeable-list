@@ -22,6 +22,8 @@
 
 A control to render list with swipeable items. Items can have action on left and right swipe. Swipe action triggering can be configured.
 
+Originally by sandstreamdev I have upgraded it to work with version 17 of react.
+
 ## Demo
 
 Check [working example page](https://sandstreamdev.github.io/react-swipeable-list/) or experiment on:
